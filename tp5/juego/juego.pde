@@ -1,3 +1,7 @@
+//https://youtu.be/opr55LUUYjs
+//Manuel Garmendia
+//Tomas Coppola
+
 Juego juego;
 
 void setup () {
